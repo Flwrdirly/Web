@@ -1,0 +1,27 @@
+.navbar {
+  background-color:aliceblue;
+  color: rgb(31, 88, 192);
+  padding: 10px;
+}
+
+.container {
+  width: 88vw;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container ul li {
+  display: inline-block;
+}
+
+.none {
+  display: none;
+}
+
+#Dropdown {
+  background-color: aliceblue;
+  position: absolute;
+  width: 110px;
+}
